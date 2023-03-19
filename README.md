@@ -19,11 +19,10 @@ docker build -t mycontainer .
 creating a venv (python3.7) in the docker container where I could install jupyter
 ### to execute in the docker-container
 ```
-
+cd /
 ```
-##### to main directory
 ```
-cd .. 
+virtualenv venv
 ```
 ```
 source venv/bin/activate
