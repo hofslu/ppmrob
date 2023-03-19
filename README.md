@@ -19,8 +19,28 @@ docker build -t mycontainer .
 creating a venv (python3.7) in the docker container where I could install jupyter
 ### to execute in the docker-container
 ```
+
+```
+##### to main directory
+```
+cd .. 
+```
+```
 source venv/bin/activate
+```
+```
+pip install jupyter
+```
+```
+pip install -r requirements.txt
+```
+```
+python setup.py install
+```
+```
 jupyter notebook --generate-config && echo 'c.NotebookApp.ip="127.0.0.1"' >> /root/.jupyter/jupyter_notebook_config.py && echo 'c.NotebookApp.allow_root = True' >> /root/.jupyter/jupyter_notebook_config.py && cd /root/pyFlightGoggles
+```
+```
 jupyter notebook notebooks/demo.ipynb
 ```
 
