@@ -24,6 +24,7 @@ creating a venv (python3.7) in the docker container where I could install jupyte
 ```
 # virtualenv venv
 ```
+vvvvv  ENTRYPOINT vvvvv
 ```
 source venv/bin/activate
 ```
