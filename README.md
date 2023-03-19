@@ -32,6 +32,9 @@ source venv/bin/activate
 pip install jupyter
 ```
 ```
+cd root/pyFlightGoggles/
+```
+```
 pip install -r requirements.txt
 ```
 ```
