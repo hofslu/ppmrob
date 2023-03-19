@@ -43,6 +43,7 @@ jupyter notebook --generate-config && echo 'c.NotebookApp.ip="127.0.0.1"' >> /ro
 ```
 jupyter notebook notebooks/demo.ipynb
 ```
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
