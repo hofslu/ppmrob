@@ -1,6 +1,6 @@
 # 📃 Description
 <div style="text-align: justify"> 
-This repository reflects a project made for the <b>Programming Principles of Mobile Robotics</b> at TU-Wien. Im Ramen dieses Kurses hatten wir zum Ziel eine API der <b>Tello Drone</b> [4] in einem Simulator zu integrieren. Dafür nutzen wir einen vom MIT erstelltes Simulator Backend namens <b>FlightGoggles</b> [1].
+This repository showcases a project developed for the <b>Programming Principles of Mobile Robotics</b> course at TU-Wien during the 2022/23 academic year. The objective of this project was to integrate the <b>API</b> of the <b>Tello Drone</b> [4] into a simulator environment. To achieve this goal, we utilized FlightGoggles [1], a simulator backend created by MIT.<b>FlightGoggles</b> [1].
 </div>
 <div style="text-align: justify">
 Therefor
