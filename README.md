@@ -5,7 +5,7 @@ This repository showcases a project developed for the <b>Programming Principles 
 
 # 🏠 Architecture
 <div style="text-align: justify">
-
+<img src="./docs/img/architecture.png">
 </div>
 
 
