@@ -27,7 +27,7 @@ docker build -t mygogglestoo .
 ```
 ## On Windows
 <div style="text-align: justify">
-download the prebuild simulator backend from [3]
+download the prebuild simulator backend from [3].
 </div>
 
 # 🔧 Usage
