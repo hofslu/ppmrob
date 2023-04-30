@@ -29,7 +29,7 @@ download the prebuild simulator backend from [3].
 
 # 🔧 Usage
 ## On Windows
-Start the <b>FlightGogglesv3-release-windows/FlightGoggles.exe</b> you sould see a ready to receive screen.
+Start the <b>FlightGogglesv3-release-windows/FlightGoggles.exe</b>, you sould see a ready to receive screen.
 
 ## In your WSL 
 ```
