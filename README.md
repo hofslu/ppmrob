@@ -47,7 +47,7 @@ you should now see jupyter running, use the last link to navigate to the noteboo
         http://<PC-NAME>:8888/?token=9deebd8afbb9669dbfac9de0b4fdaff57af93390f9c0643a
      or http://127.0.0.1:8888/?token=9deebd8afbb9669dbfac9de0b4fdaff57af93390f9c0643a
 ```
-⚠ **The Simulator should now be running before you run the actual notebook** ⚠
+⚠ **The Simulator should be running before you run the actual notebook** ⚠
 
 Run the <b>ENTRY_uav.ipynb</b> notebook, you should now see a live video of your drone simulation.
 
