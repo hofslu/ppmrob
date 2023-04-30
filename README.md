@@ -66,7 +66,7 @@ python3 sender_srcipt.py
 send commands and watch the drone fly around :)
 
 # 👨‍💻 Tuning
-You can add various functioanlities under the **SDK commands** section in the jupyter notebook. [5]
+You can add various functioanlities under the **SDK commands** section in the jupyter notebook <b>ENTRY_uav.ipynb</b>. [5]
 
 To make commands receivable, map your custom command to your desired function in the **command_map** under *API-Maping*. 
 
