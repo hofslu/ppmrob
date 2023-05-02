@@ -69,7 +69,7 @@ To make commands receivable, map your custom command to your desired function in
 
 Happy coding :)
 
-# 🗄 Referances
+# 🗄 References
  [1] FlightGoggglesDocumentation - https://flightgoggles-documentation.scrollhelp.site/fg/index.html<br>
  [2] pyFlightGoggles - https://github.com/mit-aera/pyFlightGoggles<br>
  [3] PreBuildBackend - https://drive.google.com/file/d/1p25a5tzhxBoewxsJ2y_SHD2F5E_hS8QJ/view<br>
